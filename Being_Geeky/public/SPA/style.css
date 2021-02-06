@@ -1,0 +1,151 @@
+.heading
+{
+    font-size: 25px;
+
+}
+.heading:hover
+{
+    background-color: gray;
+    text-decoration: none;
+}
+.firstCon
+{
+    text-align:center;
+    font-family: 'PT Sans',sans-serif;
+}
+.heading1
+{
+    font-size:60px;
+    margin-top:100px;
+    font-weight: bold;
+}
+.heading2
+{
+    font-size:35px;
+    margin-top:50px;
+    font-weight: bold;
+    
+}
+.content1
+{
+    margin-top:20px;
+    font-size:20px;
+    margin-bottom:14%;
+}
+.two
+{
+    text-align:center;
+    font-family: 'PT Sans',sans-serif;
+    margin-top:-6%;
+    color:white;
+}
+.heading4
+{
+    font-size:35px;
+    margin-top:50px;
+    font-weight: bold;
+}
+.content2
+{
+    margin-top:20px;
+    font-size:20px;
+   
+    margin-left:10%;
+    margin-right:10%;
+}
+
+.image1
+{
+    width: 50%;
+    height: 50%;
+    border-radius: 10px;
+}
+.three
+{
+    text-align:center;
+    font-family: 'PT Sans',sans-serif;
+    margin-top:-32px;
+}
+.image2
+{
+    width: 70%;
+    height: 70%;
+    border-radius: 10px;
+    margin-top:3%; 
+}
+.four
+{
+    text-align:center;
+    font-family: 'PT Sans',sans-serif;
+    margin-top:-40px;
+    
+    color: white;
+}
+.heading3
+{
+    font-size:35px;
+    margin-top:120px;
+    margin-bottom:3%;
+    font-weight: bold;
+}
+.content3
+{
+    margin-top:20px;
+    font-size:20px;
+    margin-left:10%;
+    margin-right:10%;
+    margin-bottom: 8%;
+}
+.coupons
+{
+    display: grid;
+    grid-gap: 5%;
+    grid-template-columns: repeat(2,2fr);
+    text-align: left;
+    font-family: 'PT Sans',sans-serif;
+}
+.coupImg
+{
+    width:60%;
+    border-radius: 20%;
+    margin-left:20%;
+
+}
+.heading4
+{
+    font-size:35px;
+    margin-bottom:3%;
+    
+}
+.content4
+{
+    margin-top:20px;
+    font-size:18px;
+    margin-right:10%;
+    font-family: 'PT Sans',sans-serif;
+    margin-bottom: 8%;    
+}
+ul
+{
+    list-style-type: none;
+}
+.footer-cols
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    font-size: 13px;
+}
+footer
+{
+    background-color: rgb(71, 111, 112);
+    margin-top:-7%;
+    padding: 2rem;
+    color:lightgray;
+    font-family: 'PT Sans',sans-serif;
+}
+.listEle
+{
+    font-size:1rem;
+    font-weight: bold;
+}
+
