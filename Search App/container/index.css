@@ -1,0 +1,40 @@
+.container
+{
+    background-color: lightgray;
+    width: 500px;
+    height:500px;
+    margin-left: 400px;
+    overflow: scroll;
+}
+.name
+{
+    float: left;
+    font-size: 25px;
+    font-weight: bold;
+}
+.loc
+{
+    margin-left:340px;
+    font-size: 25px;
+    font-weight: bold;
+}
+.empname
+{
+    float: left;
+    font-size: 20px;
+    padding: 10px;
+}
+.emploc
+{
+    margin-left: 340px;
+    font-size: 20px;
+    padding: 10px;
+}
+input
+{
+    width:420px;
+    height: 50px;
+    font-size:20px;
+    margin: 10px;
+    margin-left: 420px;
+}
