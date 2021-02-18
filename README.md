@@ -6,7 +6,7 @@
 Build a SPA(single-page application) in React.
 <details>
 <summary><b>Project Glimpse</b></summary>
-<img src="./images/project_1(1).png" width="450"> &nbsp; &nbsp;
+<img src="./images/project_1(1).png" width="450">
 <img src="./images/project_1(2).png" width="450">
 </details>
 </li>
@@ -14,7 +14,7 @@ Build a SPA(single-page application) in React.
 Build a Search app using React.
 <details>
 <summary><b>Project Glimpse</b></summary>
-<img src="./images/project_2(1).png" width="450"> &nbsp; &nbsp;
+<img src="./images/project_2(1).png" width="450">
 <img src="./images/project_2(2).png" width="410">
 </details> 
 </li>
@@ -22,9 +22,9 @@ Build a Search app using React.
 Build a route based app.
 <details>
 <summary><b>Project Glimpse</b></summary>
-<img src="./images/project_3(1).png" width="450"> &nbsp; &nbsp;
+<img src="./images/project_3(1).png" width="450">
 <img src="./images/project_3(2).png" width="410">
-<img src="./images/project_3(3).png" width="450"> &nbsp; &nbsp;
+<img src="./images/project_3(3).png" width="450">
 <img src="./images/project_3(4).png" width="410">
 </details> 
 </li>
