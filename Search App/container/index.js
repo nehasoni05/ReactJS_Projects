@@ -1,5 +1,5 @@
 import React from 'react';
-import data from './data.js';
+import data from './ob.js';
 import './index.css';
 class Search extends React.Component 
 {
@@ -32,7 +32,7 @@ class Search extends React.Component
         {
             let lower_case_emp = employee.Name.toLowerCase();
             let lower_case_value = value.toLowerCase();
-            return lower_case_emp.includes(lower_case_value);
+            return lower_case_emp.startsWith(lower_case_value);
         })
         this.setState({ search: value, view_list: new_list })
     }
@@ -44,7 +44,7 @@ class Search extends React.Component
 		return (
             <>
                 <input 
-                placeholder="Enter some text"
+                placeholder="Search your employee"
                 value={search} 
                 onChange={this.handleChange}
                 />
