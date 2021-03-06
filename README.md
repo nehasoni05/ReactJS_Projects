@@ -29,7 +29,7 @@ Build a route based app.
 </details> 
 </li>
   <li>
-Build asimple Calculator using ReactJS.
+Build a simple Calculator using ReactJS.
 <details>
 <summary><b>Project Glimpse</b></summary>
 <img src="images/Calculator(1).png" width="450">
