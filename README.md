@@ -28,6 +28,16 @@ Build a route based app.
 <img src="./images/project_3(4).png" width="410">
 </details> 
 </li>
+  <li>
+Build asimple Calculator using ReactJS.
+<details>
+<summary><b>Project Glimpse</b></summary>
+<img src="images/Calculator(1).png" width="450">
+<img src="images/Calculator(2).png" width="450">
+<img src="images/Calculator(3).png" width="450">
+
+</details> 
+</li>
 </ul>
 
 <h3>Show some ❤ and ⭐ the repo if you find it useful. </h3>
