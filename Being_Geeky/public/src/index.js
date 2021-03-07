@@ -25,6 +25,6 @@ class Cq extends React.Component {
 }
 
 ReactDOM.render(
-	<Cq />,
+	
 	document.getElementById('root')
 );
