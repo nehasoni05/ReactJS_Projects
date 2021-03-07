@@ -1,0 +1,57 @@
+body
+{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    text-align: center;
+    background-image: url('https://img.freepik.com/free-photo/neon-sign-with-dollar-euro-signs-brick-wall-background-currency-exchange-concept_164357-1709.jpg?size=626&ext=jpg');
+}
+.mainDiv
+{
+    width: 500px;
+    border: 1px solid black;
+    height: 300px;
+    padding-top: 40px;
+    border-radius: 5px;
+    background-color: white;
+}
+.mainDiv:hover
+{
+    width: 550px;
+    height: 320px;
+}
+h1
+{
+font-size: 45px;
+padding-top: -100px;
+font-family: cursive;
+}
+input
+{
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 120px;
+    height: 25px;
+    font-size: 20px;
+}
+
+select {
+    background-color: #0563af;
+    color: white;
+    padding: 3px;
+    width: 150px;
+    border: none;
+    font-size: 17px;
+    height: 30px;
+    outline: none;
+    margin-left: 12px;
+  }
+  
+.arrows
+{
+    margin-left: -86px;
+    font-weight:900;
+    font-size: 30px;
+}
