@@ -43,10 +43,10 @@ Build a simple Calculator using ReactJS.
 Build a Currency Convertor using ReactJS.
 <details>
 <summary><b>Project Glimpse</b></summary>
-<img src="images/currency-convertor(1).png" width="450">
-<img src="images/currency-convertor(2).png" width="450">
-<img src="images/currency-convertor(3).png" width="450">
-<img src="images/currency-convertor(4).png" width="450">
+<img src="images/currency-convertor(1).png" width="550">
+<img src="images/currency-convertor(2).png" width="550">
+<img src="images/currency-convertor(3).png" width="550">
+<img src="images/currency-convertor(4).png" width="550">
 </details> 
 </li>
 </ul>
