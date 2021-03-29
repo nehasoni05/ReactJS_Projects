@@ -49,6 +49,16 @@ Build a Currency Convertor using ReactJS.
 <img src="images/currency-convertor(4).png" width="550">
 </details> 
 </li>
+
+  <li>
+Build a simple login application using React router
+<details>
+<summary><b>Project Glimpse</b></summary>
+<img src="images/Route-Based-SPA(1).png" width="550">
+<img src="images/Route-Based-SPA(2).png" width="550">
+<img src="images/Route-Based-SPA(3).png" width="550">
+</details> 
+</li>
 </ul>
 
 <h3>Show some ❤ and ⭐ the repo if you find it useful. </h3>
